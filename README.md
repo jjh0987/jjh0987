@@ -2,8 +2,9 @@
 *Hi there!*
 
 *I am studying to become a data analyst and machine learning engineer.🔥*
-##
-##
+&nbsp;
+&nbsp;
+&nbsp;
 
 # *TECH STACK*
 ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)  ![R](https://img.shields.io/badge/-R-white?style=for-the-badge&logo=R&logoColor=blue) 
@@ -13,8 +14,15 @@
 # *STUDY & INTERSET*
 ![javascript](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript)                  ![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)   ![aws](https://img.shields.io/badge/-aws-white?style=for-the-badge&logo=amazon)       
 ![opnecv](https://img.shields.io/badge/-opencv-white?style=for-the-badge&logo=opencv&logoColor=gray)                          
-  
-  
-##
-##
+&nbsp;
+&nbsp;
+
+완료한 프로젝트
+- 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상
+- 비정형데이터를 활용한 미국금리 예측시스템, 최우수팀
+- 비정형데이터를 이용한 주식 시장분석 웹서비스, 최우수팀
+
+&nbsp;
+&nbsp;
+&nbsp;
 *Contact as* : *jjh0987@yonsei.ac.kr*  
