@@ -19,6 +19,9 @@
 &nbsp;
 &nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0987&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 *완료한 프로젝트*
 - 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상
 - 비정형데이터를 활용한 미국금리 예측시스템, 멀티캠퍼스 최우수팀
