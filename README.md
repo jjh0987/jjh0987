@@ -19,7 +19,7 @@
 &nbsp;
 &nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0987&layout=compact&hide=Jupyter Notebook,HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjh0987)](https://solved.ac/이름/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0987&layout=compact&hide=batchfile,html,css,jupyter%20notebook,Rich%20Text%20format)](https://github.com/anuraghazra/github-readme-stats)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjh0987)](https://solved.ac/이름/)
 
 
 
