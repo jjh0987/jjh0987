@@ -24,8 +24,8 @@
 
 
 *완료한 프로젝트*
-- 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상
-- 비정형데이터를 활용한 미국금리 예측시스템, 멀티캠퍼스 최우수팀
+- 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상   [[Detail](https://github.com/Trailblazer-Yoo/stl_promise_Visualization)]
+- 비정형데이터를 활용한 미국금리 예측시스템, 멀티캠퍼스 최우수팀   [[Detail](https://github.com/NewYorkKim/Fed_Interest_Rate)]
 - 비정형데이터를 이용한 주식 시장분석 웹서비스, 멀티캠퍼스 최우수팀
 
 *진행중인 프로젝트*
