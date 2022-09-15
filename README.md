@@ -27,11 +27,11 @@
 - 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상   [[Detail](https://github.com/Trailblazer-Yoo/stl_promise_Visualization)]
 - 비정형데이터를 활용한 미국금리 예측시스템, 멀티캠퍼스 최우수팀   [[Detail](https://github.com/NewYorkKim/Fed_Interest_Rate)]
 - 비정형데이터를 이용한 주식 시장분석 웹서비스, 멀티캠퍼스 최우수팀
+- 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (한국거래소주최, 데이콘주관) 본선진출 
 
 *진행중인 프로젝트*
 - 2022 관광데이터 활용 공모전 (카카오,관광공사 주최/주관)
-- 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (한국거래소주최, 데이콘주관)
-- KB AI challenge
+
 
 &nbsp;
 &nbsp;
