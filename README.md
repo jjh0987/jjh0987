@@ -27,7 +27,7 @@
 
 
 *완료한 프로젝트*
-- 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상   [[Detail](https://github.com/Trailblazer-Yoo/stl_promise_Visualization)]
+- 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상   [[Detail](https://github.com/jjh0987/multi_campus/tree/master/awards/(%EB%8D%B0%EC%9D%B4%EC%BD%98)%EC%A0%9C%2020%EB%8C%80%20%EB%8C%80%EC%84%A0%20%ED%9B%84%EB%B3%B4%20%EC%A0%95%EC%B1%85%2C%EA%B3%B5%EC%95%BD%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)]
 - 비정형데이터를 활용한 미국금리 예측시스템, 멀티캠퍼스 최우수팀   [[Detail](https://github.com/NewYorkKim/Fed_Interest_Rate)]
 - 비정형데이터를 이용한 주식 시장분석 웹서비스, 멀티캠퍼스 최우수팀 [[서비스영상](https://youtu.be/pslK2lIoHY0)]
 - 제1회 KRX 금융 빅데이터 활용 아이디어 경진대회 (한국거래소주최, 데이콘주관) 본선진출 [[Detail](https://github.com/jjh0987/krx_2022)]
