@@ -26,11 +26,7 @@
 
 
 
-<<<<<<< HEAD
 *분석 프로젝트*
-=======
-*수상 프로젝트*
->>>>>>> 5377b9f3f66e6351df843e25c6d9d072f7d6758b
 - 대선 후보자 추천 웹서비스, dacon 정식대회 2위 입상   [[Detail](https://github.com/jjh0987/multi_campus/tree/master/awards/(%EB%8D%B0%EC%9D%B4%EC%BD%98)%EC%A0%9C%2020%EB%8C%80%20%EB%8C%80%EC%84%A0%20%ED%9B%84%EB%B3%B4%20%EC%A0%95%EC%B1%85%2C%EA%B3%B5%EC%95%BD%20%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C)]
 - 비정형데이터를 활용한 미국금리 예측시스템, 멀티캠퍼스 최우수팀   [[Detail](https://github.com/NewYorkKim/Fed_Interest_Rate)]
 - 비정형데이터를 이용한 주식 시장분석 웹서비스, 멀티캠퍼스 최우수팀 [[서비스영상](https://youtu.be/pslK2lIoHY0)]
@@ -38,15 +34,10 @@
 - 2022 관광데이터 활용 공모전 (카카오,관광공사 주최/주관) 입상 [[Detail](https://github.com/jjh0987/yosul)] [[서비스 도메인](https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000765025)]
 - KOSPI 기반 분석 시각화 경진대회 (데이콘) : [[Detail](https://dacon.io/codeshare/6625)]
 
-<<<<<<< HEAD
 *AI 프로젝트*
 - 제주도 도로 교통량 예측 AI 경진대회 - 시계열 : 159 / 712
 - 2022 UOS 빅데이터 알고리즘 경진대회 - 시계열 : 28 / 221
 - 월간 데이콘 발화자의 감정인식 AI 경진대회 - 문장감정분류: 28 / 259
-=======
-*진행중인 프로젝트*
-- 제주도 도로 교통량 예측 AI 경진대회 (제주테크노파크 주최,데이콘주관)
->>>>>>> 5377b9f3f66e6351df843e25c6d9d072f7d6758b
 
 *학습중..*
 - AWS practitioner
