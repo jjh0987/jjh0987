@@ -1,29 +1,27 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=e9dbfa&height=300&section=header&text=Welcome!%20%20&fontSize=70&animation=fadeIn)
 *Hi there!*
 
-*I am studying to become a data analyst and machine learning engineer.🔥*
+*I am studying to become a data scientist.🔥*
 &nbsp;
-&nbsp;
-&nbsp;
- 
  
 
 # *TECH STACK*
 ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)  
 <!-- ![R](https://img.shields.io/badge/-R-white?style=for-the-badge&logo=R&logoColor=blue)  -->
 # *ML Framework*
-![MongoDB](https://img.shields.io/badge/-Tensorflow-white?style=for-the-badge&logo=tensorflow)                           ![keras](https://img.shields.io/badge/-keras-white?style=for-the-badge&logo=keras&logoColor=red)                   ![keras](https://img.shields.io/badge/-scikitlearn-white?style=for-the-badge&logo=scikitlearn)
+<!-- ![MongoDB](https://img.shields.io/badge/-Tensorflow-white?style=for-the-badge&logo=tensorflow)    -->
+![keras](https://img.shields.io/badge/-keras-white?style=for-the-badge&logo=keras&logoColor=red)                   ![keras](https://img.shields.io/badge/-scikitlearn-white?style=for-the-badge&logo=scikitlearn)
 
-# *STUDY & INTERSET*
-![javascript](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript)                  ![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)   
+# *INTERSET*
+<!-- ![javascript](https://img.shields.io/badge/-javascript-white?style=for-the-badge&logo=javascript)                  ![react](https://img.shields.io/badge/-react-white?style=for-the-badge&logo=react)    -->
 <!-- ![aws](https://img.shields.io/badge/-aws-white?style=for-the-badge&logo=amazon)  -->
-![opnecv](https://img.shields.io/badge/-opencv-white?style=for-the-badge&logo=opencv&logoColor=gray)
-![tableau](https://img.shields.io/badge/-tableau-white?style=for-the-badge&logo=tableau)                          
+<!-- ![opnecv](https://img.shields.io/badge/-opencv-white?style=for-the-badge&logo=opencv&logoColor=gray) -->
+![tableau](https://img.shields.io/badge/-tableau-white?style=for-the-badge&logo=tableau)![AWS](https://img.shields.io/badge/-AWS-white?style=for-the-badge&logo=amazon)![tableau](https://img.shields.io/badge/-streamlit-white?style=for-the-badge&logo=streamlit)   
+                      
 &nbsp;                        
-&nbsp;
-&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0987&layout=compact&hide=batchfile,html,css,jupyter,Ruby,java,starlark,objective-c,jupyter%20notebook,Rich%20Text%20format)](https://github.com/anuraghazra/github-readme-stats)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjh0987)](https://solved.ac/이름/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0987&layout=compact&hide=batchfile,html,css,jupyter,Ruby,java,starlark,objective-c,jupyter%20notebook,Rich%20Text%20format)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjh0987)](https://solved.ac/이름/)
 
 
 
@@ -44,8 +42,7 @@
 - AWS practitioner -->
 
 
-&nbsp;
-&nbsp;
+
 &nbsp;
  
 
