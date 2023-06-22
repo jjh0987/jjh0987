@@ -20,10 +20,9 @@
 <!-- ![opnecv](https://img.shields.io/badge/-opencv-white?style=for-the-badge&logo=opencv&logoColor=gray) -->
                       
 &nbsp;                        
-&nbsp;
-&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0987&layout=compact&hide=batchfile,html,css,jupyter,Ruby,java,starlark,objective-c,jupyter%20notebook,Rich%20Text%20format)](https://github.com/anuraghazra/github-readme-stats)     [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjh0987)](https://solved.ac/이름/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0987&layout=compact&hide=batchfile,html,css,jupyter,Ruby,java,starlark,objective-c,jupyter%20notebook,Rich%20Text%20format)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjh0987)](https://solved.ac/이름/)
 
 
 
@@ -44,8 +43,7 @@
 - AWS practitioner -->
 
 
-&nbsp;
-&nbsp;
+
 &nbsp;
  
 
